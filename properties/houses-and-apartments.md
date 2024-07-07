@@ -5,7 +5,7 @@ title: Case & apartamente
 ### Informații generale despre proprietăți
 
 **Casele** prezente pe server sunt obținute prin licitațiile ce au loc la **News Agency**. Acestea au rolul de *spawn point*, oferind posibilitatea jucatorului de a le mobila, de a își invita prietenii să stea împreună cu el și de a-și parca mașina în jurul casei.
-
+ss
 ::: danger Atenție!  
 Casele și apartamentele se confiscă dacă nu ai 10 ore jucate în ultimele 30 de zile. Acest lucru se verifică în fiecare vineri.
 :::
