@@ -37,15 +37,15 @@ Este Dealership-ul de unde îți poți cumpara vehicule din viața reală. Pentr
 ::: details Listă Vehicule Luxury Autos:  
 | Vehicul | Nume joc | Nume real | Viteză maximă (Performance) |  Preț Dealership|
 | :-----------: | :-----------: | :-----------: | :-----------: | :-----------: |
-| <Image src="https://imgur.com/E3xgk7W.png" alt="Golf 4" /> | Bürgerfahrzeug VER.4 | Golf 4 [1997] | <Dinero :amount='18000' /> |
-| <Image src="https://imgur.com/nbT0bvK.png" alt="Golf 5" /> | Bürgerfahrzeug GTI VER.5 | Golf 5 GTI [2004] | <Dinero :amount='19000' /> |
-| <Image src="https://imgur.com/XEqyY1e.png" alt="BMW M5 E30" /> | Übermacht E30 VER.5 | BMW M5 E30 [1986] | <Dinero :amount='65000' /> |
-| <Image src="https://imgur.com/TiYXEI0.png" alt="Gold 7R" /> | Bürgerfahrzeug VER.7R | Golf 7R [2014] | <Dinero :amount='71000' /> |
-| <Image src="https://imgur.com/xBDuWBk.png" alt="BMW M3 E46" /> | Übermacht E46 VER.3 | BMW M3 E46 [2000] | <Dinero :amount='72000' /> |
-| <Image src="https://imgur.com/IRtatLc.png" alt="Annis Miata" /> | Annis Miata | Mazda MX-5 NA Miata [1989] | <Dinero :amount='74250' /> |
-| <Image src="https://imgur.com/YIfNRlm.png" alt="Vapid Focus Performance" /> | Vapid Focus Performance | Ford Focus RS [2016] | <Dinero :amount='84000' /> |
-| <Image src="https://imgur.com/BkkcEG4.png" alt="Ubermacht E21" /> | Ubermacht E21 | BMW E21 [1975] | <Dinero :amount='90000' /> |
-| <Image src="https://imgur.com/0353rwE.png" alt="Scodi Tavia Ver. vRS" /> | Scodi Tavia Ver. vRS | Skoda Octavia VRS [2013] | <Dinero :amount='125000' /> |
+| <Image src="https://imgur.com/E3xgk7W.png" alt="Golf 4" /> | Bürgerfahrzeug VER.4 | Golf 4 [1997] | ~185km/h | <Dinero :amount='18000' /> |
+| <Image src="https://imgur.com/nbT0bvK.png" alt="Golf 5" /> | Bürgerfahrzeug GTI VER.5 | Golf 5 GTI [2004] | ~200km/h | <Dinero :amount='19000' /> |
+| <Image src="https://imgur.com/XEqyY1e.png" alt="BMW M5 E30" /> | Übermacht E30 VER.5 | BMW M5 E30 [1986] | ~219km/h | <Dinero :amount='65000' /> |
+| <Image src="https://imgur.com/TiYXEI0.png" alt="Gold 7R" /> | Bürgerfahrzeug VER.7R | Golf 7R [2014] | ~229km/h | <Dinero :amount='71000' /> |
+| <Image src="https://imgur.com/xBDuWBk.png" alt="BMW M3 E46" /> | Übermacht E46 VER.3 | BMW M3 E46 [2000] | ~225km/h | <Dinero :amount='72000' /> |
+| <Image src="https://imgur.com/IRtatLc.png" alt="Annis Miata" /> | Annis Miata | Mazda MX-5 NA Miata [1989] | ~195km/h | <Dinero :amount='74250' /> |
+| <Image src="https://imgur.com/YIfNRlm.png" alt="Vapid Focus Performance" /> | Vapid Focus Performance | Ford Focus RS [2016] | ~215km/h | <Dinero :amount='84000' /> |
+| <Image src="https://imgur.com/BkkcEG4.png" alt="Ubermacht E21" /> | Ubermacht E21 | BMW E21 [1975] | ~200km/h | <Dinero :amount='90000' /> |
+| <Image src="https://imgur.com/0353rwE.png" alt="Scodi Tavia Ver. vRS" /> | Scodi Tavia Ver. vRS | Skoda Octavia VRS [2013] | ~230km/h | <Dinero :amount='125000' /> |
 | <Image src="https://imgur.com/DZjtrVu.png" alt="Benefactor Royal Ver. 124" /> | Benefactor Royal Ver. 124 | Mercedes-Benz W124 [1984] | <Dinero :amount='128000' /> |
 | <Image src="https://imgur.com/Zw6PyP9.png" alt="Übermacht E92 Ver. 3" /> | Übermacht E92 Ver. 3 | BMW M3 E92 [2008] | <Dinero :amount='131000' /> |
 | <Image src="https://imgur.com/bJ9aP9I.png" alt="Übermacht E60 Ver. 5" /> | Übermacht E60 Ver. 5 | BMW M5 E60 [2004] | <Dinero :amount='139000' /> |
