@@ -11,7 +11,7 @@ title: Vehicule Personale
 Pe server există cinci Dealership-uri diferite, patru cu vehicule originale ale jocului **Grand Theft Auto V** (Cars Default, Motorcycles Default, Boats Default și Airplanes Default) și unul cu vehicule din viața reală (Luxury Autos).
 
 | Iconiță specifică | Tip | Nivel minim acces | Zone geografice | Monedă/Valută |
-| :-----------: | :-----------: | :-----------: | :-----------: | :-----------: |
+| :-----------: | :-----------: | :-----------: | :-----------: | :-----------: | a
 | <Image src="https://i.imgur.com/ip5NrNJ.png" alt="Dealership" width="30" label="Dealership Blip" /> | Cars Default | 3 | [**Pillbox Hill**](https://i.imgur.com/ZmvxgrF.png) | Bani în joc ($) | 
 | <Image src="https://i.imgur.com/aHcC2KL.png" alt="Dealership" width="30" label="Dealership Blip" /> | Motocycles Default | 5 | [**Pillbox Hill**](https://i.imgur.com/ZmvxgrF.png) | Bani în joc ($) |
 | <Image src="https://i.imgur.com/ip5NrNJ.png" alt="Dealership" width="30" label="Dealership Blip" /> | Luxury Autos | 7 | [**Rockford Hills**](https://i.imgur.com/VcIYT38.png) | Bani în joc ($) <br> + <br> <Image src="https://ucp.liberty.mp/assets/images/inventory/tickets/vehicle_ds_ticket.png" width="30" img align="center" label="Luxury Vehicle Ticket"/> | 
