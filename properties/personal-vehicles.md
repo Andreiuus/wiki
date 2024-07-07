@@ -46,16 +46,14 @@ Este Dealership-ul de unde îți poți cumpara vehicule din viața reală. Pentr
 | <Image src="https://imgur.com/YIfNRlm.png" alt="Vapid Focus Performance" /> | Vapid Focus Performance | Ford Focus RS [2016] | ~215km/h | <Dinero :amount='84000' /> |
 | <Image src="https://imgur.com/BkkcEG4.png" alt="Ubermacht E21" /> | Ubermacht E21 | BMW E21 [1975] | ~200km/h | <Dinero :amount='90000' /> |
 | <Image src="https://imgur.com/0353rwE.png" alt="Scodi Tavia Ver. vRS" /> | Scodi Tavia Ver. vRS | Skoda Octavia VRS [2013] | ~230km/h | <Dinero :amount='125000' /> |
-| <Image src="https://imgur.com/DZjtrVu.png" alt="Benefactor Royal Ver. 124" /> | Benefactor Royal Ver. 124 | Mercedes-Benz W124 [1984] | <Dinero :amount='128000' /> |
-| <Image src="https://imgur.com/Zw6PyP9.png" alt="Übermacht E92 Ver. 3" /> | Übermacht E92 Ver. 3 | BMW M3 E92 [2008] | <Dinero :amount='131000' /> |
-| <Image src="https://imgur.com/bJ9aP9I.png" alt="Übermacht E60 Ver. 5" /> | Übermacht E60 Ver. 5 | BMW M5 E60 [2004] | <Dinero :amount='139000' /> |
-| <Image src="https://imgur.com/jOTYxdG.png" alt="Übermacht Hybrid Ver. 8" /> | Übermacht Hybrid Ver. 8 | BMW I8 [2014] | <Dinero :amount='145000' /> |
-| <Image src="https://imgur.com/Kyl7kyz.png" alt="Benefactor Sentinel Evolution II" /> | Benefactor Sentinel Evolution II | Mercedes-Benz W201 [1982] | <Dinero :amount='149800' /> |
-| <Image src="https://imgur.com/04cH1KP.png" alt="Obey RS Ver. 2" /> | Obey RS Ver. 2 | Audi RS2 [1994] | <Dinero :amount='175250' /> |
-| <Image src="https://imgur.com/8ubrotj.png" alt="Maibatsu Evo Ver. X" /> | Maibatsu Evo Ver. X | Mitsubishi Lancer Evolution X [2007] | <Dinero :amount='179000' /> |
-| <Image src="https://imgur.com/rUqRMYe.png" alt="Vapid Horse" /> | Vapid Horse | Ford Mustang GT [2015] | <Dinero :amount='182000' /> |
-| <Image src="https://imgur.com/1bQWMXM.png" alt="Vapid Bam 1500" /> | Vapid Bam 1500 | Dodge RAM [2020] | <Dinero :amount='182000' /> |
-| <Image src="https://imgur.com/DWNyTeK.png" alt="Vapid Rampant Scorpion" /> | Vapid Rampant Scorpion | F150 Raptor [2021] | <Dinero :amount='182000' /> |
+| <Image src="https://imgur.com/Zw6PyP9.png" alt="Übermacht E92 Ver. 3" /> | Übermacht E92 Ver. 3 | BMW M3 E92 [2008] | ~233km/h | <Dinero :amount='131000' /> |
+| <Image src="https://imgur.com/bJ9aP9I.png" alt="Übermacht E60 Ver. 5" /> | Übermacht E60 Ver. 5 | BMW M5 E60 [2004] | ~255km/h |<Dinero :amount='139000' /> |
+| <Image src="https://imgur.com/jOTYxdG.png" alt="Übermacht Hybrid Ver. 8" /> | Übermacht Hybrid Ver. 8 | BMW I8 [2014] | ~232km/h | <Dinero :amount='145000' /> |
+| <Image src="https://imgur.com/Kyl7kyz.png" alt="Benefactor Sentinel Evolution II" /> | Benefactor Sentinel Evolution II | Mercedes-Benz W201 [1982] | ~215km/h | <Dinero :amount='149800' /> |
+| <Image src="https://imgur.com/8ubrotj.png" alt="Maibatsu Evo Ver. X" /> | Maibatsu Evo Ver. X | Mitsubishi Lancer Evolution X [2007] | ~240km/h | <Dinero :amount='179000' /> |
+| <Image src="https://imgur.com/rUqRMYe.png" alt="Vapid Horse" /> | Vapid Horse | Ford Mustang GT [2015] | ~252km/h | <Dinero :amount='182000' /> |
+| <Image src="https://imgur.com/1bQWMXM.png" alt="Vapid Bam 1500" /> | Vapid Bam 1500 | Dodge RAM [2020] | ~234 km/h | <Dinero :amount='182000' /> |
+| <Image src="https://imgur.com/DWNyTeK.png" alt="Vapid Rampant Scorpion" /> | Vapid Rampant Scorpion | F150 Raptor [2021] | ~245km/h | <Dinero :amount='182000' /> |
 | <Image src="https://imgur.com/RXWri04.png" alt="Annis Z VER.350" /> | Annis Z VER.350 | Nissan 350Z [2002] | <Dinero :amount='185000' /> |
 | <Image src="https://imgur.com/kTntJxv.png" alt="Karin WRX" /> | Karin WRX | Subaru Impretza WRX STI [2005] | <Dinero :amount='185250' /> |
 | <Image src="https://imgur.com/nVg770v.png" alt="Bravado Competitor" /> | Bravado Competitor | Dodge Challenger [2014] | <Dinero :amount='186000' /> |
