@@ -1,7 +1,7 @@
 ---
 title: Hoteluri & Moteluri
 ---
-
+ss
 ### Informații generale despre hoteluri și moteluri 
 
 **Hotelurile și Motelurile** sunt unități de cazare pe care orice jucător le poate închiria (nu simultan), în funcție de necesitățile pe care acesta le are. 
