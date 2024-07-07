@@ -88,10 +88,10 @@ Este Dealership-ul de unde îți poți cumpara vehicule din viața reală. Pentr
 | <Image src="https://imgur.com/QV6ICvj.png" alt="Pfister Electra" /> | Pfister Electra | Porsche Taycan Turbo S Cross Turismo [2021] | <Dinero :amount='300000' /> |
 | <Image src="https://imgur.com/gbd72XJ.png" alt="Enus Benetto" /> | Enus Benetto | Bentley Bentayga [2015] | <Dinero :amount='301000' /> |
 | <Image src="https://imgur.com/7j1jZNj.png" alt="Pfister Panarama" /> | Pfister Panarama | Porsche Panamera [2016] | <Dinero :amount='315222' /> |
-| <Image src="https://imgur.com/mksyg8B.png" alt="Enus Shadow" /> | Enus Shadow | Rolls-Royce Wraith [2019] | <Dinero :amount='319000' /> |
-| <Image src="https://imgur.com/cOvJICq.png" alt="Coil Speedster" /> | Coil Speedster | Tesla Roadster [2023] | <Dinero :amount='321200' /> |
-| <Image src="https://imgur.com/9nIWdd2.png" alt="Übermacht M4 VER.GTS" /> | Übermacht M4 VER.GTS | BMW M4 GTS [2016] | <Dinero :amount='462000' /> |
-| <Image src="https://imgur.com/YV9blW0.png" alt="Pegassi Taurus" /> | Pegassi Taurus | Lamborghini Urus [2018] | <Dinero :amount='480000' /> |
+| <Image src="https://imgur.com/mksyg8B.png" alt="Enus Shadow" /> | Enus Shadow | Rolls-Royce Wraith [2019] | ~248km/h | <Dinero :amount='319000' /> |
+| <Image src="https://imgur.com/cOvJICq.png" alt="Coil Speedster" /> | Coil Speedster | Tesla Roadster [2023] | ~230km/h | <Dinero :amount='321200' /> |
+| <Image src="https://imgur.com/9nIWdd2.png" alt="Übermacht M4 VER.GTS" /> | Übermacht M4 VER.GTS | BMW M4 GTS [2016] | ~255km/h | <Dinero :amount='462000' /> |
+| <Image src="https://imgur.com/YV9blW0.png" alt="Pegassi Taurus" /> | Pegassi Taurus | Lamborghini Urus [2018] | ~248km/h | <Dinero :amount='480000' /> |
 | <Image src="https://imgur.com/z612GQj.png" alt="Benefactor Performance GT" /> | Benefactor Performance GT | Mercedes-AMG GT [2018] | <Dinero :amount='492000' /> |
 | <Image src="https://imgur.com/5V0i26g.png" alt="Übermacht M4 Facelift" /> | Übermacht M4 Facelift | BMW M4 [2021] | <Dinero :amount='635000' /> |
 | <Image src="https://imgur.com/lcVIfRc.png" alt="Übermacht VER.8 Competition" /> | Übermacht VER.8 Competition | BMW M8 Competition [2019] | <Dinero :amount='650000' /> |
